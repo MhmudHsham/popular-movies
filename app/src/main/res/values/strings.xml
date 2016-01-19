@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="favoriate">Favoriate</string>
+    <string name="sortby">sortby</string>
+    <string name="popularity_sort">Popularity Sort</string>
+    <string name="highRated_sort">Highest Rate Sort</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="auther">Author</string>
+    <string name="content">Content</string>
+</resources>
